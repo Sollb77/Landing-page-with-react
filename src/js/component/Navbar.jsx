@@ -1,6 +1,6 @@
 import React from "react";
-import ReactDOM from "react-dom";
-import PropType from "prop-types";
+//import ReactDOM from "react-dom";
+//import PropType from "prop-types";
 
 
 
@@ -32,4 +32,4 @@ const Navbar = () => {
 	)
 }
 
-export { Navbar,Home };
+export default Navbar;

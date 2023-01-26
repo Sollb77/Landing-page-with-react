@@ -1,7 +1,7 @@
 
 import React from "react";
-import ReactDOM from "react-dom";
-import PropType from "prop-types";
+//import ReactDOM from "react-dom";
+//import PropType from "prop-types";
 
 
 
@@ -18,4 +18,4 @@ const Jumbotron = () => {
 		)
 	}
 
-    export { Jumbotron,home };
+    export default Jumbotron;
